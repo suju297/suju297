@@ -14,7 +14,10 @@
 <img src="assests/icons8-angular-48.png" alt="Angular"  width="20" height="20">
 <img src="assests/icons8-react-native-48.png" alt="React Js"  width="20" height="20">
 <img src="assests/icons8-nodejs-48.png" alt="React Js"  width="25" height="25">
-<img src="assests/icons8-express-js-48.png" alt="Express Js"  width="25" height="25">
+<img src="assests/icons8-python-48.png"
+alt="Python"  width="20" height="20">
+<img src="assests/icons8-docker-48.png"
+alt="Python"  width="20" height="20">
 <!--
 **suju297/suju297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
