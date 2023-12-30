@@ -1,5 +1,5 @@
 
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assests/Hello-removebg-preview.png" /></a></p>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assests/git_header_image-removebg.png" /></a></p>
 
 <br />
 
