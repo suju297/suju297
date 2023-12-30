@@ -10,7 +10,7 @@
 
 **Tech Stack**
 
-<div align="center">
+<div align="left">
 <img src="assests/js.png" alt="JavaScript"  width="20" height="20">
 <img src="assests/icons8-angular-48.png" alt="Angular"  width="20" height="20">
 <img src="assests/icons8-react-native-48.png" alt="React Js"  width="20" height="20">
