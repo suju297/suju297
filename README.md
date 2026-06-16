@@ -1,34 +1,48 @@
+<h1 align="center">Sujendra Jayant Gharat</h1>
 
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assests/git_header_image-removebg.png" /></a></p>
+<p align="center">
+  Software engineer focused on applied AI, backend systems, and useful developer tools.
+</p>
 
-<br />
+<p align="center">
+  <a href="https://sujendra.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sujendra.netlify.app-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/suju297">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-suju297-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-**About me**
+## About
 
-- 📚 Student at Northeastern University, Boston
-- ❤️ I love writing javascript, and building fun experiments
+I am a student at Northeastern University in Boston. I like building practical systems across the stack, especially where product engineering, automation, and machine learning meet.
 
-**Tech Stack**
+Recently I have been working on AI and agentic tooling, retrieval and reranking workflows, personalization systems, production debugging utilities, and full-stack applications.
 
-<div align="left">
-<img src="assests/js.png" alt="JavaScript"  width="20" height="20">
-<img src="assests/icons8-angular-48.png" alt="Angular"  width="20" height="20">
-<img src="assests/icons8-react-native-48.png" alt="React Js"  width="20" height="20">
-<img src="assests/icons8-nodejs-48.png" alt="React Js"  width="25" height="25">
-<img src="assests/icons8-python-48.png" alt="Python"  width="20" height="20">
-<img src="assests/icons8-docker-48.png" alt="Python"  width="20" height="20">
-</div>
-<!--
-**suju297/suju297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
 
-Here are some ideas to get you started:
+- Applied AI systems: LLM tools, reranking, recommendation, forecasting, and notebook-driven experimentation.
+- Backend and platform work: APIs, search/indexing services, automation, observability, and data-heavy workflows.
+- Full-stack products: React and TypeScript interfaces backed by practical service layers.
+- Developer tools: command-line utilities, workflow helpers, and systems that make repeated engineering tasks easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, Go, SQL
+- **Frontend:** React, HTML, CSS, SCSS
+- **Backend:** Node.js, Express, REST APIs, MongoDB, PostgreSQL
+- **AI/ML:** LLMs, RAG, reranking, recommender systems, time-series forecasting, Jupyter
+- **Tools:** Docker, Git, GitHub Actions, Linux, Homebrew
+
+## Featured Work
+
+- [autoresearch-reranking](https://github.com/suju297/autoresearch-reranking) - Research-oriented reranking experiments in Python.
+- [Neural-Personalization](https://github.com/suju297/Neural-Personalization) - TypeScript work around personalization systems.
+- [mem](https://github.com/suju297/mem) - Go-based tooling with a Homebrew distribution path.
+- [Distributed-Search-Indexing-API](https://github.com/suju297/Distributed-Search-Indexing-API) - JavaScript API work around distributed search and indexing.
+- [Multi-Agent-Intelligent-Warehouse](https://github.com/suju297/Multi-Agent-Intelligent-Warehouse) - Python project exploring multi-agent warehouse behavior.
+- [FinDesk-Copilot](https://github.com/suju297/FinDesk-Copilot) - Finance-focused copilot experiments in notebooks.
+
+## Current Interests
+
+I am especially interested in reliable AI applications, agentic workflows, search and retrieval quality, backend systems, and product engineering that turns prototypes into usable tools.
